@@ -7,7 +7,7 @@ from groq import Groq
 from PIL import Image
 
 # Groq's current vision-capable model (multimodal, text + image input)
-MODEL_NAME = "qwen/qwen3.6-27b"
+MODEL_NAME = "qwen/qwen3.8-27b"
 
 PROMPT = """You are helping a home baker or small kitchen digitize a handwritten recipe card
 into a costing sheet.

@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Groq](https://img.shields.io/badge/Vision-Groq%20%2F%20qwen3.6--27b-F55036)](https://console.groq.com/)
+[![Groq](https://img.shields.io/badge/Vision-Groq%20%2F%20qwen3.8--27b-F55036)](https://console.groq.com/)
 [![Excel](https://img.shields.io/badge/export-Excel-217346?logo=microsoftexcel&logoColor=white)](https://openpyxl.readthedocs.io/)
 
 </div>
@@ -47,7 +47,7 @@ a margin and get the exact selling price per serving and per batch.
 ## Stack
 
 - **Streamlit** — recipe-book list + live costing sheet detail view
-- **Groq** (`qwen/qwen3.6-27b`) — recipe photo → structured ingredient list with unit
+- **Groq** (`qwen/qwen3.8-27b`) — recipe photo → structured ingredient list with unit
   normalization and starting price suggestions
 - **Pandas + openpyxl** — editable pricing table + Excel export
 
